@@ -1,0 +1,6 @@
+John,Marta, Liza
+Marta, Thomas
+Peter, Thomas
+Jennifer, Thomas
+Mate, John
+John, Mate
